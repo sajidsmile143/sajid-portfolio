@@ -28,7 +28,7 @@ const projects = [
     {
         title: "ElectraLith",
         description: "The future of lithium production is here.",
-        image: budgetImage,
+        image: electralithImage,
         tags: ["Html", "Css", "Javascript"],
         github: electralithImage,
         live: "https://budget-tracker-sigma-sandy.vercel.app/",
