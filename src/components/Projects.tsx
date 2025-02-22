@@ -11,7 +11,7 @@ import electralithImage from "../assets/images/image.png";
 const projects = [
     {
         title: "Modren Portfolio",
-        description: "Real-time chat app with AI-powered responses",
+        description: "Modren Look portfolio for my Development ",
         image: portfolioImage,
         tags: ["React", "Tailwind css", "Motion", "TypeScript", "GSAP"],
         github: "https://github.com/sajidsmile143?tab=repositories",
@@ -19,7 +19,7 @@ const projects = [
     },
     {
         title: "Budget Tracker",
-        description: "A full-stack Budget Tracker",
+        description: "A Javascript Budget Tracker",
         image: budgetImage,
         tags: ["Html", "Css", "Javascript"],
         github: "https://github.com/sajidsmile143?tab=repositories",
@@ -29,14 +29,14 @@ const projects = [
         title: "ElectraLith",
         description: "The future of lithium production is here.",
         image: electralithImage,
-        tags: ["Html", "Css", "Javascript"],
+        tags: ["React", "Tailwind Css", "Node.js", "Javascript"],
         github: electralithImage,
-        live: "https://budget-tracker-sigma-sandy.vercel.app/",
+        live: "https://www.electralith.com/",
     },
 
     {
         title: "Weather App",
-        description: "Dynamic portfolio generator with customizable themes",
+        description: "Weather Update All over the World",
         image: weatherImage,
         tags: ["React", "GSAP", "Tailwind CSS", "API Integration"],
         github: "https://github.com/sajidsmile143?tab=repositories",
