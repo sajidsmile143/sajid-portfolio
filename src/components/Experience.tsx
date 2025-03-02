@@ -6,12 +6,13 @@ import { Calendar, MapPin } from "lucide-react";
 
 const experiences = [
     {
-        company: "W Group",
-        role: "Associate React js Frontend Developer",
-        period: "2022 Feb  - 2022 July",
-        location: "DHA Phase 6 Lahore",
-        description: "Worked on  frontend development of Wooo World project ",
-        technologies: ["React", "Css", "Javascript"],
+        company: "Skylinx Technologies",
+        role: "Junior React.js  Developer",
+        period: "2024 October - Present",
+        location: "Wapda Town Lahore",
+        description:
+            "Started as a junior developer working on various web projects, focusing on frontend development and responsive design.",
+        technologies: ["HTML", "CSS", "JavaScript", "React", "Tailwind css", "GSAP", "Motion", ""],
     },
     {
         company: "Zeta Enterprises",
@@ -22,13 +23,12 @@ const experiences = [
         technologies: ["Dot Net MVC ", "Jquery", "SQL", "JavaScript", "C#"],
     },
     {
-        company: "Skylinx Technologies",
-        role: "Junior Developer",
-        period: "2024 October - Present",
-        location: "Wapda Town Lahore",
-        description:
-            "Started as a junior developer working on various web projects, focusing on frontend development and responsive design.",
-        technologies: ["HTML", "CSS", "JavaScript", "React", "Tailwind css", "GSAP", "Motion", ""],
+        company: "W Group",
+        role: "Associate React js Frontend Developer",
+        period: "2022 Feb  - 2022 July",
+        location: "DHA Phase 6 Lahore",
+        description: "Worked on  frontend development of Wooo World project ",
+        technologies: ["React", "Html", "Css", "Javascript"],
     },
 ];
 
