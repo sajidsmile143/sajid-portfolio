@@ -58,13 +58,13 @@ export const Contact = () => {
                             <h3 className="text-2xl font-semibold mb-4">Social Links</h3>
                             <div className="flex gap-4">
                                 <a
-                                    href="#"
+                                    href="https://github.com/sajidsmile143?tab=repositories"
                                     className="p-3 rounded-full bg-purple-500/20 text-purple-400 hover:bg-purple-500/30 transition-colors"
                                 >
                                     <Github size={24} />
                                 </a>
                                 <a
-                                    href="#"
+                                    href="https://www.linkedin.com/in/hafiz-muhammad-sajid-692082221/"
                                     className="p-3 rounded-full bg-purple-500/20 text-purple-400 hover:bg-purple-500/30 transition-colors"
                                 >
                                     <Linkedin size={24} />
